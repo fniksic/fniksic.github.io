@@ -79,3 +79,11 @@ a:hover {
   color: gray;
   text-align: center;
 }
+
+li {
+    margin-top: 5px;
+}
+
+li:first-child {
+    margin-top: 0;
+}
