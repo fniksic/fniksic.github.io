@@ -1,0 +1,38 @@
+body {
+    background-color: white;
+    font-family: Helvetica, sans-serif;
+}
+
+ul.toolbar {
+    list-style-type: none;
+    margin-right: 20px;
+    padding: 5px;
+    overflow: hidden;
+}
+
+li.toolbar {
+    display: inline;
+}
+
+#header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #ffffff;
+}
+
+#container {
+    margin-top: 180px;
+}
+
+#footer {
+  margin: 40px auto 0 0;
+  border-top: 1px solid #cccccc;
+  font-size: 70%;
+  color: gray;
+  text-align: center;
+}
+
+img {
+    vertical-align: bottom;
+}
