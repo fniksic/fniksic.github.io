@@ -17,3 +17,10 @@ At the MPI-SWS, I was a teaching assistant for two courses:
 
   Here are my [lecture notes on propositional logic](/assets/files/propositional-logic.pdf), and my [solution](https://github.com/fniksic/labyrinth)
   to [Problem L (Labyrinth)](https://ipsc.ksp.sk/2013/real/problems/l.html) from [IPSC 2013](https://ipsc.ksp.sk/2013/problems) that reduces the problem to [SAT](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem).
+
+At the Department of Mathematics, University of Zagreb, I was a student assistant
+for the following courses:
+
+* Application of Parallel Computers (Summer 2009)
+* Introduction to Parallel Computing (Winter 2008)
+* Set Theory (Summer 2008)
