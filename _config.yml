@@ -23,6 +23,13 @@ repository: "fniksic/fniksic.github.io"
 minimal_mistakes_skin: "default"
 search: false
 
+# Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-34103986-3"
+    anonymize_ip: false # default
+
 # Social Sharing
 twitter:
   username: "FilipNiksic"
