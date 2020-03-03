@@ -43,10 +43,11 @@ social:
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.18.1"
 # Outputting
-permalink: /:categories/:title/
+permalink: /blog/:year/:month/:day/:title/
 paginate: 3 # amount of posts to show
 paginate_path: /page:num/
 timezone: America/New_York
+words_per_minute: 200
 
 include:
   - _pages
