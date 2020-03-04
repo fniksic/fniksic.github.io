@@ -47,7 +47,7 @@ classes: wide
   Teaching assistant: Verification of Reactive Systems (Summer 2014)
 * 03/2008&ndash;09/2009: **Department of Mathematics, University of Zagreb**
 
-  Student assistant: Set Theory (Summer 2008), InStroduction to Parallel
+  Student assistant: Set Theory (Summer 2008), Introduction to Parallel
   Computing (Winter 2008), Application of Parallel Computers (Summer 2009)
 * 09/2002&ndash;06/2005: **Informatics Club NET, Ivanić-Grad**
 
