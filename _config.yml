@@ -115,6 +115,13 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/fniksic/"
 
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light"
+    issue_term: "pathname"
+    label: "blog post"
+
 defaults:
   # _posts
   - scope:
@@ -124,7 +131,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-#      comments: true
+      comments: true
       share: true
       related: true
   # _pages
