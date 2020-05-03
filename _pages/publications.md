@@ -19,16 +19,14 @@ classes: wide
   [Filip Niksic](https://fniksic.github.io/),
   [Caleb Stanford](https://www.cis.upenn.edu/~castan/),
   [Rajeev Alur](https://www.cis.upenn.edu/~alur/).
-  _Submitted for publication._
-  January 2020.
+  _In progress_
 * **The Communication Closure Hypothesis for Testing Distributed Systems.**
   [Cezara Drăgoi](https://www.di.ens.fr/~cezarad/),
   [Constantin Enea](https://www.irif.fr/~cenea/),
   [Burcu Kulahcioglu Ozkan](https://people.mpi-sws.org/~burcu/),
   [Rupak Majumdar](https://people.mpi-sws.org/~rupak/),
   [Filip Niksic](https://fniksic.github.io/).
-  _Submitted for publication._
-  January 2020.
+  _In progress._
 
 ## Papers
 
