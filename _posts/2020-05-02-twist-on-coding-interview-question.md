@@ -160,7 +160,7 @@ improved function `IsInOrder` runs in __constant__ amortized time.
 Let's try to appreciate what this means: no matter how long the strings
 are, on average the loop in the improved `IsInOrder` takes at most 3 steps.
 Even better, on average, the loop takes at most $$(1-1/n)^{-n} - 1$$
-steps, which is 2.77 for the English alphabet ($$n=26$$).
+steps, which is 1.7725 (almost $$\sqrt{\pi}$$) for the English alphabet ($$n=26$$).
 And overall, instead of $$O(kn^k)$$, the run time of the improved code is
 $$O(n^k)$$.
 
