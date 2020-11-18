@@ -26,6 +26,9 @@ classes: wide
   ([**OOPSLA 2020**](https://2020.splashcon.org/track/splash-2020-oopsla))._
   November 2020. \\
   [paper](/assets/files/oopsla2020/diffstream.pdf){: .btn .btn--primary .btn--small}
+  [talk](https://youtu.be/SSwpbJuqSL0){: .btn .btn--primary .btn--small}
+  [artifact](https://doi.org/10.5281/zenodo.4033001){: .btn .btn--primary .btn--small}
+  [repository](https://github.com/fniksic/diffstream){: .btn .btn--primary .btn--small}
 * **Testing Consensus Implementations Using Communication Closure.**
   [Cezara Drăgoi](https://www.di.ens.fr/~cezarad/),
   [Constantin Enea](https://www.irif.fr/~cenea/),
@@ -36,6 +39,7 @@ classes: wide
   ([**OOPSLA 2020**](https://2020.splashcon.org/track/splash-2020-oopsla))._
   November 2020. \\
   [paper](/assets/files/oopsla2020/consensus-testing.pdf){: .btn .btn--primary .btn--small}
+  [talk](https://youtu.be/UwEvq5B5fcw){: .btn .btn--primary .btn--small}
 * **Checking Linearizability Using Hitting Families.**
   [Burcu Kulahcioglu Ozkan](https://people.mpi-sws.org/~burcu/),
   [Rupak Majumdar](https://people.mpi-sws.org/~rupak/),
