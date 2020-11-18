@@ -83,8 +83,7 @@ plugins:
 author:
   name   : "Filip Nikšić"
   avatar : "/assets/images/fn.jpg"
-  bio    : "Computer scientist currently working as a postdoc
-            at the [University of Pennsylvania](https://www.upenn.edu/)"
+  bio    : "Computer scientist currently working as a software engineer at Google"
   location: "Philadelphia, USA"
   links:
     - label: "Facebook"
