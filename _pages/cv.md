@@ -20,7 +20,10 @@ classes: wide
 
 ## Employment
 
-* 10/2018&ndash;_present_: **University of Pennsylvania, Philadelphia**
+* 09/2020&ndash;_present_: **Google, New York**
+
+  Software engineer
+* 10/2018&ndash;07/2020: **University of Pennsylvania, Philadelphia**
 
   Postdoctoral researcher in computer science
 * 09/2012&ndash;10/2018: **Max Planck Institute for Software Systems (MPI-SWS), Kaiserslautern**

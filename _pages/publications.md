@@ -6,7 +6,7 @@ classes: wide
 
 ## Work In Progress
 
-* **Flumina: Correct Distribution of Stateful Streaming Computations.**
+* **Stream Processing With Dependency-Guided Synchronization.**
   [Konstantinos Kallas](https://angelhof.github.io/),
   [Filip Niksic](https://fniksic.github.io/),
   [Caleb Stanford](https://www.cis.upenn.edu/~castan/),
@@ -14,22 +14,28 @@ classes: wide
   _In progress._ \\
   [repository](https://github.com/angelhof/flumina/){: .btn .btn--primary .btn--small}
   [examples](https://github.com/angelhof/flumina-examples){: .btn .btn--primary .btn--small}
-* **Differential Testing for Stream Processing Systems.**
+
+## Papers
+
+* **DiffStream: Differential Output Testing for Stream Processing Programs.**
   [Konstantinos Kallas](https://angelhof.github.io/),
   [Filip Niksic](https://fniksic.github.io/),
   [Caleb Stanford](https://www.cis.upenn.edu/~castan/),
   [Rajeev Alur](https://www.cis.upenn.edu/~alur/).
-  _In progress_
-* **The Communication Closure Hypothesis for Testing Distributed Systems.**
+  _In Proceedings of the ACM on Programming Languages, Volume 4, Issue OOPSLA
+  ([**OOPSLA 2020**](https://2020.splashcon.org/track/splash-2020-oopsla))._
+  November 2020. \\
+  [paper](/assets/files/oopsla2020/diffstream.pdf){: .btn .btn--primary .btn--small}
+* **Testing Consensus Implementations Using Communication Closure.**
   [Cezara Drăgoi](https://www.di.ens.fr/~cezarad/),
   [Constantin Enea](https://www.irif.fr/~cenea/),
   [Burcu Kulahcioglu Ozkan](https://people.mpi-sws.org/~burcu/),
   [Rupak Majumdar](https://people.mpi-sws.org/~rupak/),
   [Filip Niksic](https://fniksic.github.io/).
-  _In progress._
-
-## Papers
-
+  _In Proceedings of the ACM on Programming Languages, Volume 4, Issue OOPSLA
+  ([**OOPSLA 2020**](https://2020.splashcon.org/track/splash-2020-oopsla))._
+  November 2020. \\
+  [paper](/assets/files/oopsla2020/consensus-testing.pdf){: .btn .btn--primary .btn--small}
 * **Checking Linearizability Using Hitting Families.**
   [Burcu Kulahcioglu Ozkan](https://people.mpi-sws.org/~burcu/),
   [Rupak Majumdar](https://people.mpi-sws.org/~rupak/),
@@ -44,7 +50,7 @@ classes: wide
   [Filip Niksic](https://fniksic.github.io/),
   [Mitra Tabaei Befrouei](https://forsyte.at/alumni/tabaei/),
   [Georg Weissenbacher](http://www.georg.weissenbacher.name/).
-  _In Proceedings of the ACM on Programming Languages, Vol. 2, No. OOPSLA
+  _In Proceedings of the ACM on Programming Languages, Volume 2, Issue OOPSLA
   ([**OOPSLA 2018**](https://conf.researchr.org/track/splash-2018/splash-2018-OOPSLA))._
   November 2018. \\
   <span style="color: #d03030">Recipient of **OOPSLA 2018 Distinguished Paper Award**</span> \\
@@ -52,7 +58,7 @@ classes: wide
 * **Why Is Random Testing Effective for Partition Tolerance Bugs?**
   [Rupak Majumdar](https://people.mpi-sws.org/~rupak/),
   [Filip Niksic](https://fniksic.github.io/).
-  _In Proceedings of the ACM on Programming Languages, Vol. 2, No. POPL
+  _In Proceedings of the ACM on Programming Languages, Volume 2, Issue POPL
   ([**POPL 2018**](https://popl18.sigplan.org/))._
   January 2018. \\
   [paper](/assets/files/popl2018/paper.pdf){: .btn .btn--primary .btn--small}
