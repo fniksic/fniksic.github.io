@@ -20,16 +20,16 @@ classes: wide
 
 ## Employment
 
-* 09/2020&ndash;_present_: **Google, New York**
+* 09/2020&ndash;_present_: **Google, New York, NY**
 
   Software engineer
-* 10/2018&ndash;07/2020: **University of Pennsylvania, Philadelphia**
+* 10/2018&ndash;07/2020: **University of Pennsylvania, Philadelphia, PA**
 
   Postdoctoral researcher in computer science
 * 09/2012&ndash;10/2018: **Max Planck Institute for Software Systems (MPI-SWS), Kaiserslautern**
 
   Doctoral researcher in computer science
-* 05/2016&ndash;08/2016: **Microsoft Corp., Redmond**
+* 05/2016&ndash;08/2016: **Microsoft Corp., Redmond, WA**
 
   Research intern working on a testing and fault-injection framework for concurrent software. Technologies: C#, .NET Compiler Platform ("Roslyn")
 * 04/2010&ndash;09/2012: **IN2 d.o.o., Zagreb**
@@ -56,13 +56,17 @@ classes: wide
 
   Tutored high school students for programming competitions
 
+## Awards
+
+* ACM SIGPLAN John Reynolds Dissertation Award, 2020
+
 ## Professional Service
 
 * Artifact evaluation committee: ISSTA 2015, ECOOP 2018, CAV 2019
 * Conference reviews: CAV 2013, CSL 2013, FMCAD 2013, EMSOFT 2014, FMCAD
   2014, LICS 2014, CADE 2015, VMCAI 2015, POPL 2016, TACAS 2016, VMCAI
-  2017, ICALP 2018
-* Journal reviews: ACM Transactions on Computational Logic, Acta Informatica
+  2017, ICALP 2018, CAV 2021
+* Journal reviews: ACM Transactions on Computational Logic, Acta Informatica, Order
 
 ## Technical Skills
 

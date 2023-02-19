@@ -5,7 +5,7 @@ permalink: /contact/
 
 ## Office
 
-Working from home in Philadelphia, PA
+Chelsea Market, New York, NY
 
 ## Email
 
