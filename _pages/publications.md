@@ -23,7 +23,7 @@ classes: wide
   Ramesh Viswanathan.
   _In 2021 IEEE/ACM International Conference on Automated Software Engineering ([**ASE 2021**](https://conf.researchr.org/home/ase-2021))._
   November 2021. \\
-  [paper](https://ieeexplore.ieee.org/document/9678606){: .btn .btn--primary .btn-small}
+  [paper](/assets/files/ase2021/paper.pdf){: .btn .btn--primary .btn-small}
 * **Synchronization Schemas.**
   [Rajeev Alur](https://www.cis.upenn.edu/~alur/),
   [Phillip Hilliard](https://www.cis.upenn.edu/~pdh/),
