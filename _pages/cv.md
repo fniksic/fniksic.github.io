@@ -63,9 +63,10 @@ classes: wide
 ## Professional Service
 
 * Artifact evaluation committee: ISSTA 2015, ECOOP 2018, CAV 2019
+* Conference review committee: OOPSLA 2024
 * Conference reviews: CAV 2013, CSL 2013, FMCAD 2013, EMSOFT 2014, FMCAD
   2014, LICS 2014, CADE 2015, VMCAI 2015, POPL 2016, TACAS 2016, VMCAI
-  2017, ICALP 2018, CAV 2021
+  2017, ICALP 2018, CAV 2021, OOPSLA 2025
 * Journal reviews: ACM Transactions on Computational Logic, Acta Informatica, Order
 
 ## Technical Skills
